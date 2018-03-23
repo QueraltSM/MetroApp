@@ -1,2 +1,0 @@
-# MetroApp
-Computer Science ULPGC

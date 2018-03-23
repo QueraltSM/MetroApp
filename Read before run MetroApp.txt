@@ -1,0 +1,1 @@
+To start the application, go to package "file" and then "Run" the MetroAppFile class. 
